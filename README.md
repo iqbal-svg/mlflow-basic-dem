@@ -1,1 +1,1 @@
-# mlflow-basic-demo
+# mlflow-basic-dem
