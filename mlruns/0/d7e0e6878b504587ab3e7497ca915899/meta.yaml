@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shaya/Desktop/labmentix/ml-flow-basic-dem/mlruns/0/d7e0e6878b504587ab3e7497ca915899/artifacts
+end_time: 1753164105108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7e0e6878b504587ab3e7497ca915899
+run_name: useful-kite-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753164100097
+status: 3
+tags: []
+user_id: shaya

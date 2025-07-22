@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shaya/Desktop/labmentix/ml-flow-basic-dem/mlruns/0/2c88bbf1e1774feea4a7aa42df8503cb/artifacts
+end_time: 1753111733499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c88bbf1e1774feea4a7aa42df8503cb
+run_name: skillful-fish-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753111722441
+status: 3
+tags: []
+user_id: shaya

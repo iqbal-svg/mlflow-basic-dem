@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shaya/Desktop/labmentix/ml-flow-basic-dem/mlruns/0/f8299be84d8a47a8afb9b6973f700a98/artifacts
+end_time: 1753164078261
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8299be84d8a47a8afb9b6973f700a98
+run_name: skillful-tern-647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753164072909
+status: 3
+tags: []
+user_id: shaya

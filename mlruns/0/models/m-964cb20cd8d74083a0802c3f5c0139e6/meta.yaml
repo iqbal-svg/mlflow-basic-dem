@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/shaya/Desktop/labmentix/ml-flow-basic-dem/mlruns/0/models/m-964cb20cd8d74083a0802c3f5c0139e6/artifacts
+creation_timestamp: 1753164100246
+experiment_id: '0'
+last_updated_timestamp: 1753164105090
+model_id: m-964cb20cd8d74083a0802c3f5c0139e6
+model_type: null
+name: model
+source_run_id: d7e0e6878b504587ab3e7497ca915899
+status: 2
+status_message: null

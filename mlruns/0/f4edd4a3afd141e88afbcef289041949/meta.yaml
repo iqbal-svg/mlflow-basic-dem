@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shaya/Desktop/labmentix/ml-flow-basic-dem/mlruns/0/f4edd4a3afd141e88afbcef289041949/artifacts
+end_time: 1753163484736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4edd4a3afd141e88afbcef289041949
+run_name: lyrical-kite-193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753163478809
+status: 3
+tags: []
+user_id: shaya
